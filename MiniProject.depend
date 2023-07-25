@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1629143420 source:d:\uni\projects\assignment 2\miniproject\tictactoe.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
